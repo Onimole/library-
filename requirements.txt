@@ -1,0 +1,7 @@
+pythdjango>=4.0.0,<4.1.0
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+click
+python.exe -m pip install --upgrade pip
