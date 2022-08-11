@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'staff',
     'student',
+    "books.apps.BooksConfig",
 ]
 
 MIDDLEWARE = [
