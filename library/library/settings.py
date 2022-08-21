@@ -40,8 +40,7 @@ INSTALLED_APPS = [
     'staff',
     'student',
     'books',
-    'books.apps.BooksConfig',
-    'books.api.apps.ApiConfig',
+    'api',
 ]
 
 MIDDLEWARE = [

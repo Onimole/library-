@@ -12,4 +12,4 @@ class Book(models.Model):
     isbn = models.CharField(max_length=50)
 
     def __str__(self):
-        return self.title, self.author
+        return {"title", "subtitle", "author", "isbn" }
